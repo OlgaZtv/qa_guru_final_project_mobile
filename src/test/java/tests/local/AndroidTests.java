@@ -75,7 +75,7 @@ public class AndroidTests extends TestBase {
         });
         step("Нажимаем кнопку Начать и проверяем наличие строки поиска", () -> {
             getStartedButton.click();
-            searchContainer.shouldBe(value(String.valueOf(visible)));
+            searchContainer.shouldBe(visible);
         });
     }
 

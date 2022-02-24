@@ -9,7 +9,8 @@
 ## Технологический стек
 Java, Gradle, JUnit5, IntelliJ IDEA, Appium, Selenide, Browserstack, Jenkins, Allure TestOps, Jira, Github
 <br/>
-
+<p  align="left">
+<code>
 <img src="https://i.ibb.co/gtnxLqH/java.png" width="40" height="40"  alt="Java"/>
 <img src="https://i.ibb.co/0jBcyBY/gradle-icon.png" width="40" height="40"  alt="Gradle"/>
 <img src="https://i.ibb.co/PgvTPCh/Junit5.jpg" width="50" height="40"  alt="JUnit 5"/>
@@ -21,7 +22,8 @@ Java, Gradle, JUnit5, IntelliJ IDEA, Appium, Selenide, Browserstack, Jenkins, Al
 <img src="https://i.ibb.co/37MYfX4/allure.jpg" width="40" height="40"  alt="Allure TestOps"/>
 <img src="https://i.ibb.co/RSv0PZv/Jira.png" width="40" height="40"  alt="Jira"/>
 <img src="https://i.ibb.co/mCQd2Cx/Github.png" width="40" height="40"  alt="Github"/>
-
+</code>
+</p>
 
 ## Как запустить
 
